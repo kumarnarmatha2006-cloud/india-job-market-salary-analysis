@@ -44,6 +44,7 @@ This project analyzes job market data in India to understand salary trends, job 
 
 ## Dashboard
 
+![Power BI Job Market Dashboard](job-market-dashboard.png)
 An interactive Power BI dashboard was developed to present important job market and salary insights.
 
 ## Conclusion
